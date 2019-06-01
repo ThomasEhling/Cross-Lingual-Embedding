@@ -63,11 +63,11 @@ The specificity of this project was to show the efficiency of the MUSE embedding
 This is really exciting. These MUSE Embeddings have been made available by Facebook, so we can predict a future where the machine Learning model can be developed and trained by large companies like Amazon, on their billions of reviews, and we could use these model to classify any document in any language! This is an even more amazing breakthrough as we need new translation technique with the world globalization and immigration status, and it can bring new discoveries in languages that were not accurately useable due to the scarcity of the data.
 
 
-## Full Report as Research Paper
+## Final report like a research paper
 
-We conducted a thorough Error Analysis, explained in details our decisions and the Big Picture behind this project in a report written with the same constratin as a research paper.
+We conducted a thorough error analysis, explained in details our decisions and the big picture behind this project in a report written with the same constraints as a research paper.
 
-This final report can be found here : https://docs.google.com/document/d/1Vgn-4se_--7jCrX4P4MoPb3s_Mwr04UKFKyKjuwzFHI/edit?usp=sharing
+THis final report can be found here : https://docs.google.com/document/d/1Vgn-4se_--7jCrX4P4MoPb3s_Mwr04UKFKyKjuwzFHI/edit?usp=sharing
 
 or in this repository as the "Cross_Lingual_Embedding_Report.pdf" file.
 

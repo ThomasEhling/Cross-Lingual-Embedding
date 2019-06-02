@@ -23,21 +23,22 @@ https://github.com/facebookresearch/MUSE
 
 If you wish to implement our code, and recreate our result, do the following steps :
 
+**CAREFUL : Due to the Embeddings the /data folder is huge once unzipped : 1.7GB"
+
 **A. On Google Drive :**
-  1. copy the /data folder to your drive.
-  2. download and unzip the "MUSE_embeddings" folder or download the "wiki.multi.en.vec" and "wiki.multi.es.vec" from the official MUSE page.
+  1.download and unzip the "data" folder
+  2. copy the "data" folder to your drive.
   3. Add these the two files to the /data folder
   4. Upload "Cross_Lingual_Embeddings.ipynb" and open it with colab
-  5. In the 4 line, change the PATH_DRIVE to your path to the /data file
+  5. In the 4 line, change the PATH_DRIVE to your path to the /data folder
   6. Run "Cross_Lingual_Embeddings.ipynb"
 
 **B. Localy :**
   1. Download this repo
-  2. unzip the "MUSE_embeddings" folder or download the "wiki.multi.en.vec" and "wiki.multi.es.vec" from the official MUSE page.
-  3. Add these the two files to the /data folder
+  2. unzip the "/data" folder
   4. Open "Cross_Lingual_Embeddings.ipynb"
   5. delete the first two line of code
-  5. change the PATH_DRIVE value to your local path to the /data file
+  5. change the PATH_DRIVE value to your local path to the /data foler
   6. Run "Cross_Lingual_Embeddings.ipynb"
 
 ## Result :

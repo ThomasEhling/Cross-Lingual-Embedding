@@ -21,12 +21,14 @@ https://github.com/facebookresearch/MUSE
 
 ## Implementation :
 
+The zipped /data folder, with the MUSE embeddings, model weidths, clean datasets and pickle file for the vocabularies is accessible throught this link : https://drive.google.com/file/d/1VSn4Pp4QOn4ipLF7GNSrJY5A2DcyOTNt/view?usp=sharing
+
+**CAREFUL : Due to the Embeddings the /data folder is huge once unzipped : 1.7GB"**
+
 If you wish to implement our code, and recreate our result, do the following steps :
 
-**CAREFUL : Due to the Embeddings the /data folder is huge once unzipped : 1.7GB"
-
 **A. On Google Drive :**
-  1.download and unzip the "data" folder
+  1. download and unzip the "data" folder
   2. copy the "data" folder to your drive.
   3. Add these the two files to the /data folder
   4. Upload "Cross_Lingual_Embeddings.ipynb" and open it with colab
@@ -34,12 +36,11 @@ If you wish to implement our code, and recreate our result, do the following ste
   6. Run "Cross_Lingual_Embeddings.ipynb"
 
 **B. Localy :**
-  1. Download this repo
-  2. unzip the "/data" folder
-  4. Open "Cross_Lingual_Embeddings.ipynb"
-  5. delete the first two line of code
-  5. change the PATH_DRIVE value to your local path to the /data foler
-  6. Run "Cross_Lingual_Embeddings.ipynb"
+  1. download and unzip the "data" folder
+  2. Open "Cross_Lingual_Embeddings.ipynb"
+  3. delete the first two line of code
+  4. change the PATH_DRIVE value to your local path to the /data foler
+  5. Run "Cross_Lingual_Embeddings.ipynb"
 
 ## Result :
 

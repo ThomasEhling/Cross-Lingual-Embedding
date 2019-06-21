@@ -69,7 +69,7 @@ This is really exciting. These MUSE Embeddings have been made available by Faceb
 
 We conducted a thorough error analysis, explained in details our decisions and the big picture behind this project in a report written with the same constraints as a research paper.
 
-THis final report can be found here : https://docs.google.com/document/d/1Vgn-4se_--7jCrX4P4MoPb3s_Mwr04UKFKyKjuwzFHI/edit?usp=sharing
+THis final report can be found here : https://github.com/ThomasEhling/Cross-Lingual-Embedding/blob/master/Cross_Lingual_Embedding_Report.pdf
 
 or in this repository as the "Cross_Lingual_Embedding_Report.pdf" file.
 
